@@ -1,0 +1,3 @@
+C:/Users/aleca/Downloads/Estructura de Datos/Proyecto_Lista/cmake-build-debug/CMakeFiles/Proyecto_Lista.dir
+C:/Users/aleca/Downloads/Estructura de Datos/Proyecto_Lista/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/aleca/Downloads/Estructura de Datos/Proyecto_Lista/cmake-build-debug/CMakeFiles/rebuild_cache.dir
